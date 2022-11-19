@@ -1,1 +1,3 @@
 # pensamentocomputacional
+
+luana oliveira gruvald
